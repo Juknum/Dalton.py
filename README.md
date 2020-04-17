@@ -10,4 +10,4 @@ Petit programme python pour retranscrire une image classique selon la vue d'un d
 - [EN] https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
 - [EN] http://vision.psychol.cam.ac.uk/jdmollon/papers/colourmaps.pdf
 
-Notes obtenue : 20/20 ¯\_(ツ)_/¯
+> Note obtenue : `20/20 ¯\_(ツ)_/¯`
