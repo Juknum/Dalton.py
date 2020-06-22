@@ -1,4 +1,6 @@
 # Daltonisme - Projet ISN 2019
+![header](https://github.com/Juknum/Daltonisme/blob/master/images/explode.png)
+
 Programme python pour retranscrire une image classique selon la vue d'un daltonien
 
 Membres du projet :
