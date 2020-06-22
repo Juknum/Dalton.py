@@ -1,7 +1,11 @@
 # Daltonisme - Projet ISN 2019
-Petit programme python pour retranscrire une image classique selon la vue d'un daltonien
+Programme python pour retranscrire une image classique selon la vue d'un daltonien
 
-## Modules nécessaires :
+Membres du projet :
+- Julien Constant  
+- Mylène Pozar  
+
+## Modules Python nécessaires :
 - Os
 - tkinter
 - Pillow
